@@ -11,7 +11,7 @@ blogÄÚÈİ£º
  5. ²âÊÔ
 
 
-![github](https://github.com/unknowspeople/bigdata/blob/master/img/123.png "github")
+![github]([1] "github")
 
-
+[1]: https://github.com/unknowspeople/bigdata/blob/master/img/123.png
 
